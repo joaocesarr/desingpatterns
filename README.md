@@ -52,7 +52,7 @@ Para executar o projeto integrado, configure seu ambiente Java (ex: JDK 11+), im
 
 ---
 
-## Autor
+## Autores
 
 João César - 
 Thieres Marcos -
